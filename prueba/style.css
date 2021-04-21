@@ -1,0 +1,24 @@
+.btn.btn-outline-light{
+    width: 54%;
+}
+
+.claseTitulo{
+    padding: 2%;
+    text-align: center;
+    color:darkred;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    margin:20px;
+}
+body{
+    background-color:cornsilk;
+}
+.precio{
+    color:rgb(239, 150, 42)
+}
+.formulario1{
+    margin: auto;
+    width: max-content;
+    text-align: center;
+}
